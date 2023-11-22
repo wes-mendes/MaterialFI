@@ -1,0 +1,1 @@
+=SE(E(L3<=Dados!$G$4);L3*Dados!$H$4;SE(E(L3=Dados!$F$5;L3<=Daods!$G$5);L3*Dados!$H$5;0))
